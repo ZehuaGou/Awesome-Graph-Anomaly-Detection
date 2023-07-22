@@ -1,5 +1,5 @@
 # Awesome-Graph-Anomaly-Detection
-Collections for state-of-the-art (SOTA), novel awesome graph anomaly detecion methods (papers and codes)
+Collections for state-of-the-art (SOTA), novel awesome graph anomaly detecion methods (papers and codes).
 
 ## Year 2023
 1. [AAAI 2023] **Graph Anomaly Detection via Multi-Scale Contrastive Learning Networks with Augmented View** [[paper]](https://arxiv.org/abs/2212.00535) [[code]](https://github.com/FelixDJC/GRADATE)
